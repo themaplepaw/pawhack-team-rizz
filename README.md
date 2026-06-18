@@ -1,7 +1,7 @@
 # pawhack-team-rizz
-# [Project Name]
+# PawPal Web Application
 
-> One sentence: what does this app do and who is it for?
+> A multi-purpose digital web application for pet owners by pet owners 
 
 **PawHack · Team Rizz · 18 June 2026**
 GitHub: [github.com/TheMaplePaw/pawhack-team-rizz](https://github.com/TheMaplePaw/pawhack-team-rizz)
@@ -14,7 +14,7 @@ GitHub: [github.com/TheMaplePaw/pawhack-team-rizz](https://github.com/TheMaplePa
 
 [2–3 sentences describing the problem you chose to solve.]
 
----
+Pet owners often struggle to manage multiple aspects of pet care such as medication management and feeding schedules due to their busy schedules. Information and pet-related services are also fragment across different platforms.
 
 ## The Solution
 
@@ -22,7 +22,7 @@ GitHub: [github.com/TheMaplePaw/pawhack-team-rizz](https://github.com/TheMaplePa
 
 [2–3 sentences describing your app and its core value.]
 
----
+A web application that combines pet healthcare, deaily care management and access to pet-related services.
 
 ## Live Demo
 
@@ -36,11 +36,11 @@ GitHub: [github.com/TheMaplePaw/pawhack-team-rizz](https://github.com/TheMaplePa
 
 | Layer | Technology |
 |-------|-----------|
-| Frontend | [e.g. React / Next.js / plain HTML+JS] |
-| Backend / API | [e.g. Node + Express / Supabase / Firebase] |
-| Database | [e.g. Supabase Postgres / Firebase / none] |
-| AI tools used | [e.g. Claude, v0.dev, Cursor] |
-| Hosting | [e.g. Vercel / Netlify / Render] |
+| Frontend | HTML |
+| Backend / API | none |
+| Database | none |
+| AI tools used | Claude |
+| Hosting | none |
 
 ---
 
@@ -73,9 +73,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 | Name | Role on the day |
 |------|----------------|
-| [Name 1] | [e.g. Builder / Designer / Pitcher] |
-| [Name 2] | [e.g. Builder / Designer / Pitcher] |
-| [Name 3] | [e.g. Builder / Designer / Pitcher] |
+| Alridge Ace | Builder and designer |
+| Hazwan | Designer and Pitcher |
 
 ---
 
